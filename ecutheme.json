@@ -1,14 +1,14 @@
 [
 {
 "author" : "Ecudor",
-"name" : "Ecudor Gold Theme",
+"name" : "Ecudor",
 "keyWords" : "Ecu,Ecudor",
 "version" : "1.0.0",
-"dofusVersion" : "2.63",
-"description" : "Nuances de gris, et d'or thème modifié sur le base de Argentic / darkStone.",
+"dofusVersion" : "2.58",
+"description" : "Nuances de gris, et d'or, thème modifié sur la base de Argentic / darkStone de Salakiss<",
 "url" : "https://github.com/Ecudor/theme/blob/a3d9ed924eb214637ad4e759188eaec36e51f4cb/Ecudor.zip",
 "previewUrl" : "https://github.com/Ecudor/theme/raw/main/Ecudor.png",
 "creationDate" : "02/09/2016",
-"modificationDate" : "10/05/2022"
+"modificationDate" : "28/12/2020"
 }
 ]
